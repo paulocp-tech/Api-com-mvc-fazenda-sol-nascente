@@ -1,0 +1,42 @@
+﻿@model FazendaUrbanaSolNascente.Models.CreatePlantingViewModel
+
+<h2>Criar novo Plantio</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="PlantingDate">Data do Plantio</label>
+        <input type="date" class="form-control" id="PlantingDate" name="DataPlantio" required />
+    </div>
+
+    <div class="form-group">
+        <label for="HarvestDate">Data da colheita</label>
+        <input type="date" class="form-control" id="HarvestDate" name="DataColheita" />
+    </div>
+
+
+    <div class="form-group">
+        <label for="ProdutoId">Produto</label>
+        <select class="form-control" id="ProdutoId" name="ProdutoId" required>
+            <option value="">Selecione o Produto</option>
+            @foreach (var produto in Model.Produtos)
+            {
+                <option value="@produto.Id">@produto.Name</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Quantidade" class="control-label">Quantidade</label>
+        <input asp-for="Quantidade" class="form-control" />
+        <span asp-validation-for="Quantidade" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Cadastrar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

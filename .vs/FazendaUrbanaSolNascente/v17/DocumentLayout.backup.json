@@ -1,0 +1,439 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\models\\caritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\models\\caritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\context\\solnascerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\context\\solnascerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\models\\createsaleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\models\\createsaleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\models\\salesreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\models\\salesreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\migrations\\20241113231510_xxxxad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\migrations\\20241113231510_xxxxad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\migrations\\20241113231622_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\migrations\\20241113231622_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|c:\\users\\lucas\\desktop\\fazenda nova\\fazendaurbanasolnascente\\fazendaurbanasolnascente\\migrations\\20241114152149_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B275A5-B8F1-4D32-8C4B-41BDA3D23F27}|FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente.csproj|solutionrelative:fazendaurbanasolnascente\\migrations\\20241114152149_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\appsettings.json",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\appsettings.json",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T18:33:42.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarItem.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Models\\CarItem.cs",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\Models\\CarItem.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Models\\CarItem.cs",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\Models\\CarItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:32:57.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Program.cs",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Program.cs",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:31:04.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:41:54.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SolNascerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Context\\SolNascerDbContext.cs",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\Context\\SolNascerDbContext.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Context\\SolNascerDbContext.cs",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\Context\\SolNascerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:40:59.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAADYBAAAAAAAAAAAAAEkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-14T15:36:54.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T15:35:46.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\Controllers\\SaleController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\Controllers\\SaleController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:58:08.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:58:08.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:58:08.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\appsettings.Development.json",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T15:14:33.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241114152149_InitialCreate1.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Migrations\\20241114152149_InitialCreate1.cs",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\Migrations\\20241114152149_InitialCreate1.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Migrations\\20241114152149_InitialCreate1.cs",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\Migrations\\20241114152149_InitialCreate1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:21:50.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SalesReportViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Models\\SalesReportViewModel.cs",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\Models\\SalesReportViewModel.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Models\\SalesReportViewModel.cs",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\Models\\SalesReportViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:58:08.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateSaleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Models\\CreateSaleViewModel.cs",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\Models\\CreateSaleViewModel.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Models\\CreateSaleViewModel.cs",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\Models\\CreateSaleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:58:08.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAkwAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:58:08.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241113231510_xxxxad.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Migrations\\20241113231510_xxxxad.cs",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\Migrations\\20241113231510_xxxxad.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Migrations\\20241113231510_xxxxad.cs",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\Migrations\\20241113231510_xxxxad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:58:08.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241113231622_inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Migrations\\20241113231622_inicial.cs",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\Migrations\\20241113231622_inicial.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Migrations\\20241113231622_inicial.cs",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\Migrations\\20241113231622_inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:58:08.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\Views\\Customer\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T03:58:08.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T03:58:08.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T03:58:08.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T03:58:08.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "FazendaUrbanaSolNascente\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\fazenda nova\\FazendaUrbanaSolNascente\\FazendaUrbanaSolNascente\\Models\\Class.cs",
+              "RelativeToolTip": "FazendaUrbanaSolNascente\\Models\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:58:08.981Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ba2fc7a-405e-5c33-ae0c-f01f6ad6d6d7}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

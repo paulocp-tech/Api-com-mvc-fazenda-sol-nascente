@@ -1,0 +1,84 @@
+﻿@model CreateSaleViewModel
+
+<h2>Criar Venda</h2>
+
+<form asp-action="AddToCart" method="post">
+    <div class="form-group">
+        <label>Produtos</label>
+        <select asp-for="SelectedProductId" class="form-control" id="produtoSelect">
+            @foreach (var produto in Model.Produtos)
+            {
+                <option value="@produto.Id" data-stock="@produto.QtdStorage">@produto.Name (Estoque: @produto.QtdStorage)</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label>Quantidade</label>
+        <input type="number" name="quantity" class="form-control" id="quantidadeInput" min="1" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Adicionar ao Carrinho</button>
+</form>
+
+<h3>Carrinho</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Produto</th>
+            <th>Quantidade</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Cart)
+        {
+            <tr>
+                <td>@item.Product.Name</td>
+                <td>@item.Quantity</td>
+                <td>
+                    <form asp-action="RemoveFromCart" method="post" style="display:inline;">
+                        <input type="hidden" name="productId" value="@item.Product.Id" />
+                        <button type="submit" class="btn btn-danger">Remover</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<form asp-action="FinalizeSale" method="post">
+    <div class="form-group">
+        <label for="customerId">Selecionar Cliente</label>
+        <select name="customerId" class="form-control">
+            <option value="">Selecione um cliente</option>
+            @foreach (var customer in Model.Customer)
+            {
+                <option value="@customer.Id">@customer.Name</option>
+            }
+        </select>
+    </div>
+    <!-- Outras partes do formulário aqui -->
+    <button type="submit" class="btn btn-primary">Finalizar Venda</button>
+</form>
+
+@section Scripts {
+    <script>
+        const produtoSelect = document.getElementById("produtoSelect");
+        const quantidadeInput = document.getElementById("quantidadeInput");
+
+        produtoSelect.addEventListener("change", function () {
+            const selectedOption = produtoSelect.options[produtoSelect.selectedIndex];
+            const stock = selectedOption.getAttribute("data-stock");
+            quantidadeInput.max = stock;
+            quantidadeInput.value = 1;
+        });
+
+        quantidadeInput.addEventListener("input", function () {
+            const maxQty = parseInt(quantidadeInput.max);
+            if (parseInt(quantidadeInput.value) > maxQty) {
+                quantidadeInput.value = maxQty;
+            }
+        });
+    </script>
+}

@@ -1,0 +1,35 @@
+﻿@model FazendaUrbanaSolNascente.Models.SalesReportViewModel
+
+<h2>Relatório de Vendas</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Data da Venda</th>
+            <th>Cliente</th>
+            <th>Produto</th>
+            <th>Quantidade</th>
+            <th>Total do Item</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var sale in Model.Sales)
+        {
+            foreach (var item in sale.SaleItems)
+            {
+                <tr>
+                    <td>@sale.SaleDate.ToShortDateString()</td>
+                    <td>@sale.Customer.Name</td>
+                    <td>@item.Product.Name</td>
+                    <td>@item.Quantity</td>
+                    <td>@((item.Product.Price * item.Quantity).ToString("C"))</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+<a asp-action="DownloadSalesReport" class="btn btn-primary">Baixar PDF</a>
+
+<p>
+    <strong>Total Vendido:</strong>
+    @Model.TotalVendido.ToString("C")
+</p>

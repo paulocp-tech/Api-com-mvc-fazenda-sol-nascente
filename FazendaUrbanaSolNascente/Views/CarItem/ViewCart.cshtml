@@ -1,0 +1,36 @@
+﻿@model List<CartItem>
+
+<h2>Carrinho de Compras</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Produto</th>
+            <th>Quantidade</th>
+            <th>Remover</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ProductName</td>
+                <td>@item.Quantity</td>
+                <td>
+                    <button type="button" class="btn btn-danger" onclick="removeFromCart('@item.ProductId')">Remover</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    function removeFromCart(productId) {
+        fetch(`/Cart/RemoveFromCart?productId=${productId}`, {
+            method: 'POST'
+        }).then(response => {
+            if (response.ok) {
+                window.location.reload();
+            }
+        }).catch(error => console.error('Erro ao remover item do carrinho:', error));
+    }
+</script>

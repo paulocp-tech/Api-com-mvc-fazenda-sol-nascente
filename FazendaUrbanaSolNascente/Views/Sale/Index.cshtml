@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Sale>
+
+<h2>Histórico de Vendas</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Data da Venda</th>
+            <th>Produtos</th>
+            <th>Quantidade</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var venda in Model)
+        {
+            <tr>
+                <td>@venda.SaleDate.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>
+                    <ul>
+                        @foreach (var item in venda.SaleItems)
+                        {
+                            <li>@item.Product.Name - Quantidade: @item.Quantity</li>
+                        }
+                    </ul>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

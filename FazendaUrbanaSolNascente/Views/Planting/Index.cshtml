@@ -1,0 +1,29 @@
+﻿@model IEnumerable<FazendaUrbanaSolNascente.Models.Planting>
+
+<h2>Plantios</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Data do Plantio</th>
+            <th>Data da colheita</th>
+            <th>Produto</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var planting in Model)
+        {
+            <tr>
+                <td>@planting.PlantingDate.ToShortDateString()</td>
+                <td>@(planting.HarvestDate.ToShortDateString())</td>
+                <td>@planting.Produto.Name</td>
+                <td>
+                    <a href="@Url.Action("Delete", "Planting", new { id = planting.Id })" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Cadastrar Novo Plantio</a>

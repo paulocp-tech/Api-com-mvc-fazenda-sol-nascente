@@ -1,0 +1,26 @@
+﻿@model IEnumerable<FazendaUrbanaSolNascente.Models.Product>
+
+<h2>Relatório de Produtos</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Preço</th>
+            <th>Quantidade em Estoque</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Price.ToString("C")</td>
+                <td>@item.QtdStorage</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<p><strong>Total em Estoque:</strong> @Model.Sum(p => p.QtdStorage)</p>
+<p><strong>Valor Total dos Produtos:</strong> @Model.Sum(p => p.Price * p.QtdStorage).ToString("C")</p>
+
+<a asp-action="DownloadProductReport" class="btn btn-primary">Baixar PDF</a>
